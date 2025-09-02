@@ -57,15 +57,34 @@
 
 ## 👨‍💻 Featured Projects 👨‍💻
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Strategy-Generator-System&theme=radical)](https://github.com/Ahmed-daw/Strategy-Generator-System)                         [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=echolens&theme=radical)](https://github.com/Ahmed-daw/echolens)
+<div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Chatting-Room-Project&theme=radical)](https://github.com/Ahmed-daw/Chatting-Room-Project)
+  <a href="https://github.com/Ahmed-daw/Strategy-Generator-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Strategy-Generator-System&theme=radical" />
+  </a>
+  <a href="https://github.com/Ahmed-daw/echolens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=echolens&theme=radical" />
+  </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Face-Recognition-App&theme=radical)](https://github.com/Ahmed-daw/Face-Recognition-App)
+  <br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=News-Summarization-and-Search-Application&theme=radical)](https://github.com/Ahmed-daw/News-Summarization-and-Search-Application)
+  <a href="https://github.com/Ahmed-daw/Chatting-Room-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Chatting-Room-Project&theme=radical" />
+  </a>
+  <a href="https://github.com/Ahmed-daw/Face-Recognition-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Face-Recognition-App&theme=radical" />
+  </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=News_analysis_project&theme=radical)](https://github.com/Ahmed-daw/News_analysis_project)
+  <br/>
+
+  <a href="https://github.com/Ahmed-daw/News-Summarization-and-Search-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=News-Summarization-and-Search-Application&theme=radical" />
+  </a>
+  <a href="https://github.com/Ahmed-daw/News_analysis_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=News_analysis_project&theme=radical" />
+  </a>
+
+</div>
 
 
 ---
