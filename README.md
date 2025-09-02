@@ -55,39 +55,43 @@
 
 ---
 
-## 👨‍💻 Featured Projects 👨‍💻
+<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
+<br>
 
-<div align="center">
-
-  <a href="https://github.com/Ahmed-daw/Strategy-Generator-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Strategy-Generator-System&theme=radical" />
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Ahmed-daw/Strategy-Generator-System" title="Strategy Generator System">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Strategy-Generator-System&theme=radical&border_color=61dafb&border_radius=10">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ahmed-daw/echolens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=echolens&theme=radical" />
+  <a align="right" href="https://github.com/Ahmed-daw/echolens" title="Echolens">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=echolens&theme=radical&border_color=61dafb&border_radius=10">
   </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/Ahmed-daw/Chatting-Room-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Chatting-Room-Project&theme=radical" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ahmed-daw/Face-Recognition-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Face-Recognition-App&theme=radical" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/Ahmed-daw/News-Summarization-and-Search-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=News-Summarization-and-Search-Application&theme=radical" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ahmed-daw/News_analysis_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=News_analysis_project&theme=radical" />
-  </a>
-
 </div>
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Ahmed-daw/Chatting-Room-Project" title="Chatting Room Project">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Chatting-Room-Project&theme=radical&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/Ahmed-daw/Face-Recognition-App" title="Face Recognition App">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Face-Recognition-App&theme=radical&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Ahmed-daw/News-Summarization-and-Search-Application" title="News Summarization and Search Application">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=News-Summarization-and-Search-Application&theme=radical&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/Ahmed-daw/News_analysis_project" title="News Analysis Project">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=News_analysis_project&theme=radical&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/Ahmed-daw?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
 
 
 
