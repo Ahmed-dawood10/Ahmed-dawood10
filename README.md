@@ -57,7 +57,7 @@
 
 ## 👨‍💻 Featured Projects 👨‍💻
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Strategy-Generator-System&theme=radical)](https://github.com/Ahmed-daw/Strategy-Generator-System)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=echolens&theme=radical)](https://github.com/Ahmed-daw/echolens)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Strategy-Generator-System&theme=radical)](https://github.com/Ahmed-daw/Strategy-Generator-System)                         [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=echolens&theme=radical)](https://github.com/Ahmed-daw/echolens)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Chatting-Room-Project&theme=radical)](https://github.com/Ahmed-daw/Chatting-Room-Project)
 
