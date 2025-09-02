@@ -56,12 +56,19 @@
 ---
 
 ## 👨‍💻 Featured Projects 👨‍💻
-<p align="center">
-  <a href="https://github.com/Ahmed-daw/Face-Recognition-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Face-Recognition-System&theme=react&hide_border=true&border_radius=10"></a>
-  <a href="https://github.com/Ahmed-daw/Chat-Room-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Chat-Room-App&theme=react&hide_border=true&border_radius=10"></a>
-  <a href="https://github.com/Ahmed-daw/Fake-News-Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Fake-News-Detection&theme=react&hide_border=true&border_radius=10"></a>
-  <a href="https://github.com/Ahmed-daw/School-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=School-Management-System&theme=react&hide_border=true&border_radius=10"></a>
-</p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Strategy-Generator-System&theme=radical)](https://github.com/Ahmed-daw/Strategy-Generator-System)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=echolens&theme=radical)](https://github.com/Ahmed-daw/echolens)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Chatting-Room-Project&theme=radical)](https://github.com/Ahmed-daw/Chatting-Room-Project)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Face-Recognition-App&theme=radical)](https://github.com/Ahmed-daw/Face-Recognition-App)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=News-Summarization-and-Search-Application&theme=radical)](https://github.com/Ahmed-daw/News-Summarization-and-Search-Application)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=News_analysis_project&theme=radical)](https://github.com/Ahmed-daw/News_analysis_project)
+
 
 ---
 
