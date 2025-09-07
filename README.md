@@ -5,7 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/ahmed-daw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ahmed-dawood10"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.tiktok.com/@ahmeddawood497"><img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white"></a>
   <a href="https://www.instagram.com/ahmeddawood88/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.facebook.com/ahmed.dawood.75286100/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -43,14 +43,14 @@
 
 ## ⚡ Stats ⚡
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Ahmed-daw&theme=react&hide_border=true&border_radius=10" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-daw&show_icons=true&theme=react&hide_border=true&border_radius=10" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Ahmed-dawood10&theme=react&hide_border=true&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-dawood10&show_icons=true&theme=react&hide_border=true&border_radius=10" />
 </p>
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-daw&layout=compact&theme=react&hide_border=true&border_radius=10" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-dawood10&layout=compact&theme=react&hide_border=true&border_radius=10" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-daw&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-dawood10&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -59,37 +59,37 @@
 <br>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Ahmed-daw/Strategy-Generator-System" title="Strategy Generator System">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Strategy-Generator-System&theme=radical&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/Ahmed-dawood10/Strategy-Generator-System" title="Strategy Generator System">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-dawood10&repo=Strategy-Generator-System&theme=radical&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/Ahmed-daw/echolens" title="Echolens">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=echolens&theme=radical&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Ahmed-daw/Chatting-Room-Project" title="Chatting Room Project">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Chatting-Room-Project&theme=radical&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/Ahmed-daw/Face-Recognition-App" title="Face Recognition App">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=Face-Recognition-App&theme=radical&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/Ahmed-dawood10/echolens" title="Echolens">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-dawood10&repo=echolens&theme=radical&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Ahmed-daw/News-Summarization-and-Search-Application" title="News Summarization and Search Application">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=News-Summarization-and-Search-Application&theme=radical&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/Ahmed-dawood10/Chatting-Room-Project" title="Chatting Room Project">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-dawood10&repo=Chatting-Room-Project&theme=radical&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/Ahmed-daw/News_analysis_project" title="News Analysis Project">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-daw&repo=News_analysis_project&theme=radical&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/Ahmed-dawood10/Face-Recognition-App" title="Face Recognition App">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-dawood10&repo=Face-Recognition-App&theme=radical&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Ahmed-dawood10/News-Summarization-and-Search-Application" title="News Summarization and Search Application">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-dawood10&repo=News-Summarization-and-Search-Application&theme=radical&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/Ahmed-dawood10/News_analysis_project" title="News Analysis Project">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-dawood10&repo=News_analysis_project&theme=radical&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/Ahmed-daw?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Ahmed-dawood10?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 
@@ -98,5 +98,5 @@
 ---
 
 <h4 align="center">
-  <a href="https://github.com/Ahmed-daw?tab=repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Ahmed-dawood10?tab=repositories">🔎 Show More 🔍</a>
 </h4>
