@@ -9,7 +9,7 @@
   <a href="https://www.tiktok.com/@ahmeddawood497"><img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white"></a>
   <a href="https://www.instagram.com/ahmeddawood88/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.facebook.com/ahmed.dawood.75286100/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://ahmed-daw.github.io/github.io/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://ahmed-dawood10.github.io/github.io/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white"></a>
   <a href="https://drive.google.com/file/d/19Vg8xvOhf_zBzjmV7J24pE-yJibNQFZw/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
 </h5>
 
