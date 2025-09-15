@@ -19,10 +19,9 @@
 ---
 
 ### 👋 Hi, I'm Ahmed Dawood  
-🎓 B.Sc. in Artificial Intelligence Science, Alamein International University (CGPA: 3.4/4.0)  
-💻 Passionate about AI, Machine Learning, NLP, and Software Development  
-📚 Graduation project: **Storytelling from Surveillance Videos** using I3D, YOLO, and Gemini APIs  
-💬 Ask me anything [here](https://github.com/Ahmed-daw/Ahmed-daw/issues)  
+🎓 Bachelor's in Artificial Intelligence Science, Alamein International University (CGPA: 3.4/4.0)  
+💻 AI and Machine Learning Engineer with hands-on experience in computer vision, natural language processing, and deployment of AI systems. Skilled in building end-to-end machine learning solutions, from data preprocessing to deployment, with a strong foundation in mathematics and algorithms. Passionate about applying AI solutions to real-world challenges in healthcare, disaster management, and automation.  
+💬 Ask me anything [here](https://github.com/Ahmed-dawood10/Ahmed-daw/issues)  
 📫 Reach me: **ahmeddawood0001@gmail.com** | 📱 +20 1095643617  
 
 ---
