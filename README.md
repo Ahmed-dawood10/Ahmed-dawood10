@@ -45,15 +45,11 @@
 
 ## ⚡ Stats ⚡
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Ahmed-dawood10&theme=react&hide_border=true&border_radius=10" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-dawood10&show_icons=true&theme=react&hide_border=true&border_radius=10" />
+  <img width="32%" src="https://streak-stats.demolab.com/?user=Ahmed-dawood10&theme=react&hide_border=true&border_radius=10" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-dawood10&show_icons=true&theme=react&hide_border=true&border_radius=10" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-dawood10&layout=compact&theme=react&hide_border=true&border_radius=10" />
 </p>
-<p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-dawood10&layout=compact&theme=react&hide_border=true&border_radius=10" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-dawood10&theme=react-dark&hide_border=true" width="100%"/>
-</p>
+
 
 ---
 
