@@ -57,6 +57,12 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-dawood10&theme=react&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+
 <h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
 <br>
 
